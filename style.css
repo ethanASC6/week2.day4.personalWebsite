@@ -1,0 +1,35 @@
+body{
+    background-color: darkcyan;
+}
+.navbar-brand{
+    margin-left: 25px;
+}
+#home{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#contact{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.container-fluid{
+    padding: 20px;
+    box-shadow: 5px 10px 18px #888888;
+    text-align: center;
+    background-color: darkslategrey;
+    color: white;
+}
+
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
