@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://thumbs.gfycat.com/ObedientIcyChicken-size_restricted.gif");
+}
+
+.card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
